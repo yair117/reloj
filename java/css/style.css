@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    background: black;
+}
+
+#watch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border:2px solid rgb(34, 181, 234);
+    color: coral ;
+    border-radius: 50%;
+    font-family:'Rubik Mono One', sans-serif;
+}
